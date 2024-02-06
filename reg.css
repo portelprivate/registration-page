@@ -15,6 +15,7 @@ body{
     width: 430px;
     padding: 25px;
     height:652px;
+    border-radius: 6px;
 }
 h1{
     margin-top: 15px;

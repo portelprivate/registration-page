@@ -14,7 +14,7 @@ body{
     background-color: white;
     width: 430px;
     padding: 25px;
-    height:652px;
+    height:653px;
     border-radius: 6px;
 }
 h1{
@@ -46,7 +46,7 @@ color:#000000 ;
 button{
 width: 360px;
 margin-right: 6px;
-margin-top: 12px;
+margin-top: 15px;
 padding: 5px;
 background-color: blue;
 color: white;
